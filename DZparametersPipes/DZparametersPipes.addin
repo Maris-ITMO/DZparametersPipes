@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\DZparametersPipes.dll"</Assembly>
+		<AddInId>FC61A9AE-82B3-42F0-8114-BCAB8328AEAE</AddInId>
+		<FullClassName>DZparametersPipes.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>DZ 3.3 Параметры Трубы</Text>
+	</AddIn>
+</RevitAddIns>
